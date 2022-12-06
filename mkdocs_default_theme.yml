@@ -1,0 +1,36 @@
+site_name: MkDocs Template
+site_url: https://example.com/
+docs_dir: 'src'
+
+# nav:
+#     ## add your custom pages hierarchy here
+#     - Page 1: index.md
+#     - Page 2: index.md
+#     - Page 3: index.md
+#     - Page 4: index.md
+#     - About: about.md
+
+theme:
+  name: mkdocs
+  nav_style: dark
+  shortcuts:
+    help: 191    # ?
+    next: 78     # n
+    previous: 80 # p
+    search: 83   # s
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - python
+    - kotlin
+  analytics:
+    gtag: G-ABC123
+
+#   name: readthedocs
+#   highlightjs: true
+#   hljs_languages:
+#     - yaml
+#     - python
+#     - kotlin
+#   analytics:
+#     gtag: G-ABC123
