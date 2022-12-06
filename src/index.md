@@ -1,24 +1,33 @@
 ---
 tags:
-  - mkdocs
-  - template
-  - python
+  - books
 ---
 
-# Welcome to MkDocs
+# Notes on Self-help books
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+My notes on self-help books read over time.
 
-## Commands
+Overall intent is to record learnings for myself over time, and share with anyone out there who is interested.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Tools I use
 
-## Project layout
+- `Read More` app
+- `Bookshelf` app
+- `Goodreads`
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Books
+
+- [The 5 AM Club](./robin-sharma-the-5-am-club/)
+
+## Why this site exists?
+
+### Writing Summary
+
+Writing a book summary helps you remember what you read. It also helps you connect key concepts from other books.
+Summaries may not be perfect the first time. Hence progressive summarization is the key to writing them.
+
+Connecting knowledge trees helps you internalize and remember what you read - James Clear
+
+### References
+
+- WikiHow [Write a book summary](https://www.wikihow.com/Write-a-Book-Summary)

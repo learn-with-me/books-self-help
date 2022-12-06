@@ -1,18 +1,8 @@
 # Self-help Books
 
-Notes on self-help books read over time
+Notes on self-help books read over time.
 
-# Credits
-
-This repository is built from [template](https://github.com/goel4ever/mkdocs-template)
-
-## Features
-
-- Ready to use template
-- Stand up a static website in seconds
-- Uses material-UI plugin to follow standard UI elements
-- Built in search support
-- GitHub workflow setup already to deploy to Gh-pages
+> Note: All books are tagged with book keywords, author name, topic for easy searchability.
 
 ### Tips
 
@@ -21,9 +11,9 @@ This repository is built from [template](https://github.com/goel4ever/mkdocs-tem
   - Previous: `p`
   - Next: `n`
 
-## Installation Instructions
+# Credits
 
-Go [here](./docs/local-development.md) for instructions
+This repository is built from [template](https://github.com/goel4ever/mkdocs-template)
 
 Support
 -------
