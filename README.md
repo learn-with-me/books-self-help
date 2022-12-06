@@ -1,10 +1,10 @@
-# MkDocs Template
+# Self-help Books
 
-Template for documenting my notes. Go [here](https://goel4ever.github.io/mkdocs-template/) for a demo.
+Notes on self-help books read over time
 
-Feel free to use this template by clicking on `Use this template` button.
+# Credits
 
-[This documentation](./docs/README.md) should have everything needed or at least most common scenarios for help.
+This repository is built from [template](https://github.com/goel4ever/mkdocs-template)
 
 ## Features
 
@@ -24,13 +24,6 @@ Feel free to use this template by clicking on `Use this template` button.
 ## Installation Instructions
 
 Go [here](./docs/local-development.md) for instructions
-
-## Contribution
-
-Refer [contributing guidelines](./docs/CONTRIBUTING.md) for making contributions to the template.
-
-- Issue Tracker: https://github.com/goel4ever/mkdocs-template/issues
-- Source Code: https://github.com/goel4ever/mkdocs-template
 
 Support
 -------
