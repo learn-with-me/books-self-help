@@ -1,6 +1,6 @@
 # Self-help Books
 
-Notes on self-help books read over time.
+Notes on self-help books read over time. Go to the [website](https://learn-with-me.github.io/books-self-help/) to read the notes.
 
 > Note: All books are tagged with book keywords, author name, topic for easy searchability.
 

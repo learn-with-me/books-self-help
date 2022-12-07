@@ -9,11 +9,3 @@ We will have eternity to celebrate the victories but only a few hours before sun
 It's never too late. Live a life you're proud of. If you find that you're not, I hope you have the strength to start all over again. - F. Scott Fitzgerald
 
 And those who were seen dancing were thought to be insane by those who could not hear the music. - Friedrich Nietzsche
-
-## Keep in mind
-
-Can you break each chapter into three parts?
-
-- The beginning will be focused on introducing the major characters and establishing the setting of the story.
-- The middle will explore the major “problem” of the book.
-- The end will resolve the book’s major problem.
