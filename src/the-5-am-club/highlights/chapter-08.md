@@ -1,10 +1,6 @@
-# Highlights
+# Ch 08 - The 5 AM method: The morning routine of the world-builders.
 
-Interesting quotes/text from the book.
-
-## Chapter 8: The 5 AM Method
-
-> The morning routine of the world-builders
+> It is well to be up before daybreak, for such habits contribute to health, wealth and wisdom - Aristotle
 
 Punctuality is the trait of royalty.
 
@@ -32,10 +28,4 @@ It's got me thinking about so many things. The quality of my art. The depth of m
 
 I made myself tinier instead of grander, so I'd be a good boy. I suffocated my hopes, gifts and powers in an effort to conform.
 
-## Keep in mind
-
-Can you break each chapter into three parts?
-
-- The beginning will be focused on introducing the major characters and establishing the setting of the story.
-- The middle will explore the major “problem” of the book.
-- The end will resolve the book’s major problem.
+I can't postpone doing amazing work anymore. I can't put off improving my health, my happiness, my confidence and even my love life.
