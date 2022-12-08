@@ -9,11 +9,9 @@ My notes on self-help books read over time.
 
 Overall intent is to record learnings for myself over time, and share with anyone out there who is interested.
 
-## Tools I use
+## Conflict of interest
 
-- `Read More` app
-- `Bookshelf` app
-- `Goodreads`
+If you own the content of any of the books I am making notes on, and prefer for the content to be taken down, please reach out at the mailing list: [goel4ever@googlegroups.com](mailto:goel4ever@googlegroups.com)
 
 ## Books
 
@@ -27,6 +25,12 @@ Writing a book summary helps you remember what you read. It also helps you conne
 Summaries may not be perfect the first time. Hence progressive summarization is the key to writing them.
 
 Connecting knowledge trees helps you internalize and remember what you read - James Clear
+
+## Tools I use
+
+- `Read More` app ([Android](https://play.google.com/store/apps/details?id=com.shunan.readmore&hl=en_US&gl=US&pli=1) & [iOS](https://apps.apple.com/uz/app/read-more-reading-tracker/id1614131121))
+- `Bookshelf` app ([Android](https://play.google.com/store/apps/details?id=com.bookshelf.prod&hl=en_US&gl=US))
+- `Goodreads`
 
 ### References
 

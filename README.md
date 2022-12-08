@@ -4,14 +4,18 @@ Notes on self-help books read over time. Go to the [website](https://learn-with-
 
 > Note: All books are tagged with book keywords, author name, topic for easy searchability.
 
-### Tips
+## Conflict of interest
+
+If you own the content of any of the books I am making notes on, and prefer for the content to be taken down, please reach out at the mailing list: [goel4ever@googlegroups.com](mailto:goel4ever@googlegroups.com)
+
+## Tips
 
 - Shortcuts available by default
   - Search: `s`, `/`
   - Previous: `p`
   - Next: `n`
 
-# Credits
+## Credits
 
 This repository is built from [template](https://github.com/goel4ever/mkdocs-template)
 
