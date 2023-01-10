@@ -15,6 +15,12 @@ If you own the content of any of the books I am making notes on, and prefer for 
   - Previous: `p`
   - Next: `n`
 
+### Run locally
+
+```sh
+$ source scripts/setup.sh
+```
+
 ## Credits
 
 This repository is built from [template](https://github.com/goel4ever/mkdocs-template)
