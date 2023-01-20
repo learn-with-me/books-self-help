@@ -1,15 +1,7 @@
-site_name: MkDocs Template
+site_name: Summary of Self-Help books
 site_url: https://learn-with-me.github.io/books-self-help/
 repo_url: https://github.com/learn-with-me/books-self-help
 docs_dir: 'src'
-
-# nav:
-#     ## add your custom pages hierarchy here
-#     - Page 1: index.md
-#     - Page 2: index.md
-#     - Page 3: index.md
-#     - Page 4: index.md
-#     - About: about.md
 
 theme:
   name: material

@@ -13,6 +13,16 @@ Overall intent is to record learnings for myself over time, and share with anyon
 
 If you own the content of any of the books I am making notes on, and prefer for the content to be taken down, please reach out at the mailing list: [goel4ever@googlegroups.com](mailto:goel4ever@googlegroups.com)
 
+## Self-help Index
+
+- [The 5 AM Club](./The%205%20AM%20Club/)
+- [The Automatic Millionaire](./The%20Automatic%20Millionaire/)
+
+### Assorted Quotes
+
+[Assorted quotes](./assorted%20quotes/)
+
+
 ## Why this site exists?
 
 ### Writing Summary
