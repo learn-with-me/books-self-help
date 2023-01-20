@@ -144,6 +144,37 @@ During stressful times for market, historically, portfolios diversified among st
 - [NYSE](https://www.nyse.com/index) - official site for the New York Stock Exchange. Contains detailed data about companies as well as solid background information
 - [NASDAQ](https://www.nasdaq.com/) - for real time stock quotes and detailed information about companies listed
 
+## Chapter 5: Automate for Rainy day
+
+There will always be things that are out of your control. If there is anything you can count on, it's that life is filled with unexpected changes. You never plan on losing, but stuff happens. In today's world, we often don't maintain the same cushion of emergency money that our parents and grandparents routinely stashed away. Remember, cash is king, cash is security, cash is protection. This section focuses on two basic questions:
+
+1. How much money should you put aside in order to protect yourself against the "rainy day"?
+2. Where should you put that money?
+
+Rule #1: Be aware of your monthly expenses and get close enough idea of what that number looks like each month on average. A 3 months to a `year's worth of expenses` is the ultimate goal to shoot for, however if you see that taking a really long time, start small. Start with 1 month, then grow it to 3 months, then 6 months, whatever duration you're comfortable with and helps you sleep well at night.
+
+Rule #2: `Don't touch this money, ever`. You read "In case of emergency, break glass". Think of your emergency fund the same way. A real emergency is something that threatens your survival, not just your desire to be comfortable.
+
+Rule #3: Don't let it stay buried. Set it and forget it. Put it in a money market account earinign a reasonable return. The goal is not to make the most money out of it, but keeping it simple, safe and yet grow. You're actually buying a `money market fund` - a mututal fund that invests in the safest and most liquid securities there are: very short-term government bonds and sometimes highly rated corporate bonds. Do not save it in your regular bank account to avoid temptations. Out of sight, out of mind.
+
+Rule #4: As life goes on, your expenses may go up as well. Periodically `revise your estimates and adjust` your stash size accordingly.
+
+Rule #5: Make the deposit automatic/recurring/systematic.
+
+> Remember: the rich get richer because they make their money work for them.
+
+Money market accounts are considered to be the safest investments around. Make sure the account is federally insured (FDIC-insured)
+
+### Alternative Investment
+
+Alternatively, you could invest in US Savings [Series I-bonds](https://www.treasurydirect.gov/savings-bonds/i-bonds/) to `hedge against inflation`, capped at $10,000 per year as of 2023. Interest `compounds` every six months on the last principle amount + interest earned. There is `no state tax` on interest earned. You can sell I-bonds after one year, although if you sell before five years, there is a penalty of three months' worth of interest.
+
+Both options have their own benefits. Money market accounts provide you more liquidity. Government savings bonds pay a higher rate of interest, because they are considered longer-term investments.
+
+### How to get there?
+
+Set up `5%` of your net take-home pay to automatically go in your rainy day account every paycheck.
+
 ## Additional Sources
 
 - [Plan Sponsor](https://www.plansponsor.com/) - does survey on how much Americans have invested in pretax retirement plans.
