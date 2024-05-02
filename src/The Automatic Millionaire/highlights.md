@@ -7,7 +7,7 @@ Interesting quotes/text from the book.
 The main takeaways from this book are:
 
 - Having a plan is very very important. Nothing works without a plan.
-- Forget discipline, budgeting, etc. All you need is automation. The author has stresed over this topic in his entire book.
+- Forget discipline, budgeting, etc. All you need is automation. The author has stressed over this topic in his entire book.
 
 ## Introduction
 
@@ -50,11 +50,11 @@ Priority: Retirement > Home
 
 > More often than not, the more we make, the more we spend. Chances are that you're earning more than you were ten years ago. But are you saving more?
 
-- How much you earn has no bearing on whether or not you can and will build wealth. When you spend everything you make, you subject yourself to a life of stress, fear, uncertainity, and debt.
+- How much you earn has no bearing on whether or not you can and will build wealth. When you spend everything you make, you subject yourself to a life of stress, fear, uncertainty, and debt.
 - The latte factor
   - Most of us waste a lot of what we earn on `small things`. They add up. By saving these unnecessary expenses, you can get your money to work for you instead of you working for it.
   - If you don't drink coffee, assume you do.
-  - If someone argues in 30 years a million may not be as worth - it will certainlly be a lot more than nothing
+  - If someone argues in 30 years a million may not be as worth - it will certainly be a lot more than nothing
   - What matters is not how much you earn but how much you spend.
 - To get new results, you need to take new actions.
 - You need to act on what you've learned.
@@ -69,7 +69,7 @@ Priority: Retirement > Home
     - We want to be in control
 - Simply having heard of the concept doesn't mean you are living it.
     - Even more important, see if you are living what you know.
-- When you earn a dollar, the first perons you pay is you.
+- When you earn a dollar, the first person you pay is you.
     - Otherwise it may seem like everyone is getting paid but the person who earned the paycheck.
     - You need to set up a system that guarantees you'll get paid - a system in which you pay yourself automatically.
     - The issue with most financial planning systems is that they focus on numbers. Instead think about hours of your life. Measure savings by -
@@ -137,7 +137,7 @@ During stressful times for market, historically, portfolios diversified among st
 
 ### Resources for Research
 
-- [MorningStar](https://morningstar.com) orginated the concept of ranking mutual funds. For free, you get a list of the top performing U.S. funds over the last 10 years. You can also look at fund reports which can be very helpful in making decisions.
+- [MorningStar](https://morningstar.com) originated the concept of ranking mutual funds. For free, you get a list of the top performing U.S. funds over the last 10 years. You can also look at fund reports which can be very helpful in making decisions.
 - [Yahoo Finance](https://finance.yahoo.com) offers a true full-service financial portal. It also offers a very helpful [mutual fund screener](https://finance.yahoo.com/screener/mutualfund/new) and a list of [top performing mutual funds](https://finance.yahoo.com/screener/predefined/2ca6caed-e715-4fec-986a-fe68599160d9/) using this screener for free.
 - [Mutual Fund Education Center](https://imealliance.com/default.aspx)
 - [MarketWatch](https://www.marketwatch.com/?showsmscrim=true) - created by editors of Smart Money magazine. Check out the `personal finance` planning section, articles and tools
@@ -155,7 +155,7 @@ Rule #1: Be aware of your monthly expenses and get close enough idea of what tha
 
 Rule #2: `Don't touch this money, ever`. You read "In case of emergency, break glass". Think of your emergency fund the same way. A real emergency is something that threatens your survival, not just your desire to be comfortable.
 
-Rule #3: Don't let it stay buried. Set it and forget it. Put it in a money market account earinign a reasonable return. The goal is not to make the most money out of it, but keeping it simple, safe and yet grow. You're actually buying a `money market fund` - a mututal fund that invests in the safest and most liquid securities there are: very short-term government bonds and sometimes highly rated corporate bonds. Do not save it in your regular bank account to avoid temptations. Out of sight, out of mind.
+Rule #3: Don't let it stay buried. Set it and forget it. Put it in a money market account earning a reasonable return. The goal is not to make the most money out of it, but keeping it simple, safe and yet grow. You're actually buying a `money market fund` - a mutual fund that invests in the safest and most liquid securities there are: very short-term government bonds and sometimes highly rated corporate bonds. Do not save it in your regular bank account to avoid temptations. Out of sight, out of mind.
 
 Rule #4: As life goes on, your expenses may go up as well. Periodically `revise your estimates and adjust` your stash size accordingly.
 
@@ -174,6 +174,53 @@ Both options have their own benefits. Money market accounts provide you more liq
 ### How to get there?
 
 Set up `5%` of your net take-home pay to automatically go in your rainy day account every paycheck.
+
+## Chapter 6: Automatic Debt-free home ownership
+
+> You can't get rich renting. You aren't in a game of building wealth until you own some real estate.
+
+Even more important than money is the feeling home ownership gives you. When you own, you have the security that comes from knowing that you are building equity and living in a place that belongs to you. You're not at the mercy of a landlord who can raise your rent or evict you.
+
+### Reasons to buy a home
+
+If you just look at the math, getting rich with home ownership may not always be true for you. However it is very important to be aware of all the benefits that come with home ownership and then decide for yourself.
+
+1. `Forced savings`. A lot of us wait to get "comfortable" before buying a home, and then something else takes over priority in life.
+2. `Leverage`. Using borrowed money to multiply your potential gains. For example, you put 20% on a $500,000 house, and over just a few years the prices went up to $700,000. You could really just sell the house and bag $200,000 profit. If you compare it with investment, you made 200% returns over $100,000 invested, in a short amount of time.
+3. `OPM`. Other people's money. Really rich people not only get their money to work for them but also get other people's money to work for them.
+      1. Let's say you have the money to buy the house without taking loan. It makes sense to invest that money somewhere to get a higher rate of return than the APR bank would charge you on the loan. If you don't trust your investment skills, ignore this reason.
+      2. If you will need a loan from bank, and say the property price goes up after some time, you could refinance the property to cash out, and invest is somewhere for higher gains, if needed. Again, be smart with your own money as well as borrowed money.
+4. `Tax Breaks`. You deduct the cost of the `interest` you pay on your mortgage (up to a maximum of $1 million) each year. This applies only to your primary home, where you live presently.
+5. `Pride of ownership`. You put down your roots, become part of a community, with a real sense of security.
+
+### Agencies that help buying
+
+- [U.S. Department of housing and Urban Development](https://www.hud.gov/) a.k.a `HUD`. HUD's mission is to create opportunities for home ownership. If you're a first-time home buyer, visit the website.
+- [National Council of State Housing Finance Agencies](https://www.ncsha.org/) - if you're a first-time home buyer, you may qualify for special state loan programs specifically created for this purpose.
+- [Fannie Mae](https://www.fanniemae.com/), The Federal National Mortgage Association. It operations under a congressional charter to increase the availability and affordability of home ownership for low, moderate and middle-income Americans. Fannie Mae doesn't lend money itself; it provides the financing that makes it possible for banks to lend money to consumers. It also offers free reports by simply asking for them. Check out [HomePath](https://homepath.fanniemae.com/)
+- [Freddie Mac](https://www.freddiemac.com/), the Federal Home Loan Mortgage Corporation. Freddie Mac does not make loans to consumers; rather it provides the financing that allows lenders to offer home loans that are affordable. Checkout [HomeBuyers](https://myhome.freddiemac.com/) for great tools & information, and [HomeSteps](https://www.homesteps.com/) for bargain homes. It does this by listing foreclosure auctions nationwide and providing information about loan programs that allow would-be homeowners to buy foreclosed properties with as little as 5 percent down.
+
+### Loan Programs to consider
+
+`FHA` (Federal Housing Administration) is an agency within HUD that provides lenders with mortgage insurance, thus giving them the security to lend to first-time home buyers. [FHA loans](https://www.fhaloan.com/) can cover up to 97 percent of the purchase price and can be used to buy a second or third home
+
+`State Bond Loans` - most states offer individual bond programs designed to help first-time home buyers. Example [NJ](https://nj.gov/dca/hmfa/roadhome/). For more information, check [National Council of State Housing Finance Agencies](https://www.ncsha.org/).
+
+### Home Affordability Limits
+
+According to FHA, a good rule of thumb is that most people can afford to spend `29 percent` of their gross income on housing expenses - as much as `41 percent` if they have no debt. This applies if you either rent or have a mortgage to pay.
+
+### 30-year Mortgage
+
+These are great because you get the interest rate locked in for 30 years.
+
+Do not wait for all 30 years to pay your loan, otherwise you could end up paying a lot more money in interest over time.
+
+## Chapter X: Topic
+
+> Quote
+
+Content.
 
 ## Additional Sources
 

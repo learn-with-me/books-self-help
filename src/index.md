@@ -3,7 +3,7 @@ tags:
   - books
 ---
 
-# Notes on Self-help books
+# The Why?
 
 My notes on self-help books read over time.
 
@@ -18,11 +18,6 @@ If you own the content of any of the books I am making notes on, and prefer for 
 - [The 5 AM Club](./The%205%20AM%20Club/)
 - [The Automatic Millionaire](./The%20Automatic%20Millionaire/)
 - [Assorted quotes](./assorted%20quotes/)
-
-### Assorted Quotes
-
-[Assorted quotes](./assorted%20quotes/)
-
 
 ## Why this site exists?
 
