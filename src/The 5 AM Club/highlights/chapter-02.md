@@ -16,7 +16,7 @@ If you sense your life's a mess right now, this is simply because your fears are
 
 World-class begins where your comfort zone ends is a rule the successful, the influential and the happiest always remember.
 
-Hard is good. Real greatness and the realization of your inherent genius is meant to be a difficult sport. Becoming legandary is never easy.
+Hard is good. Real greatness and the realization of your inherent genius is meant to be a difficult sport. Becoming legendary is never easy.
 
 A major key to happiness - and internal peace - is knowing you've done whatever it took to earn your rewards and passionately invested the effortful audacity to become your best.
 

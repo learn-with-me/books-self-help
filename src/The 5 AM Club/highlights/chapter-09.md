@@ -17,12 +17,12 @@ Exceptionalists fully understand that their creative output represents their rep
 The fact that your good name is branded onto every piece of work that you release.
 And they get that you can't put a price tag on people saying superb things about you.
 
-The grade of work you offer to the world refpects the strength of the respect you have for yourself.
+The grade of work you offer to the world reflects the strength of the respect you have for yourself.
 If you want to lead your field, become a performer and a person of depth.
 
 Less is more. You're attempting too much. Geniuses understand that it's smarter to create one masterwork than one thousand ordinary pieces.
 
-When you deconstruct how the superstars, virtuosos and geniuses achieved what they did, you'll realize that it was their heightened awareness of the opportunities for daily greatness that inspired them to mkae the better daily choices that yielded better daily results. That's the power of self-education.
+When you deconstruct how the superstars, virtuosos and geniuses achieved what they did, you'll realize that it was their heightened awareness of the opportunities for daily greatness that inspired them to make the better daily choices that yielded better daily results. That's the power of self-education.
 They just played at a much higher level. They brought rigor to what they did.
 
 Whenever you're creating beauty around you, you are restoring your own soul - George Orwell
@@ -31,6 +31,6 @@ Vague, imprecise thinking yields vague, imprecise results.
 If someone's instructions are unclear, that's because the way they think is unclear.
 
 Approach - Developing high awareness around the things that we do and having a painstaking approach to making our work perfect. Refining the details.
-Underpromising and overdelivering. Taking immesnse pride in our craft.
+Under-promising and over-delivering. Taking immense pride in our craft.
 
-Gamble everything for love, if you are a true human being. If not, leave this gathering. Half-heartedness doesn't reach into majesty.
+Gamble everything for love, if you are a true human being. If not, leave this gathering. Half-heartiness doesn't reach into majesty.
