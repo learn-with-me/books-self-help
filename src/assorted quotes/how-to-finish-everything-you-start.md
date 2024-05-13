@@ -7,7 +7,25 @@ tags:
 
 - Author: Jan Yager
 - Amazon [link](https://a.co/d/9PX59Sa)
-- Theme: Habits to transform your life
+- Theme: Practical strategies for overcoming procrastination and completing tasks effectively
+
+The book provides practical strategies for overcoming procrastination and completing tasks effectively. Here's a summary:
+
+1. **Identifying Obstacles**: recognize common obstacles that hinder progress, such as fear of failure, perfectionism, or lack of time management skills.
+
+2. **Setting Clear Goals**: emphasizes on the importance of setting clear and achievable goals to maintain focus and motivation throughout the completion process.
+
+3. **Time Management Techniques**: read and implement various time management techniques to help readers prioritize tasks, manage their schedules efficiently, and make better use of their time.
+
+4. **Overcoming Procrastination**: use strategies for overcoming procrastination, including breaking tasks into smaller, more manageable steps and establishing accountability measures.
+
+5. **Staying Motivated**: use tips for staying motivated, such as rewarding yourself for progress and surrounding yourself with supportive peers or mentors.
+
+6. **Dealing with Setbacks**: know how to handle setbacks and challenges along the way, encouraging readers to learn from their mistakes and persevere toward their goals.
+
+Overall, the book equips you with practical tools and strategies to overcome procrastination, stay focused, and successfully complete tasks and projects.
+
+## Key points
 
 ### Find a great place to stop for the day.
 If you end whatever you are trying to finish at a good point, it will be that much easier to pick right up again when you get back to it
