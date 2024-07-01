@@ -21,14 +21,6 @@ Essentialism advocates for focusing on what truly matters by eliminating non-ess
 
 Overall, essentialism is about simplifying your life, making deliberate choices, and focusing your efforts on the things that truly matter most to you.
 
-## Quotes
-
-> If you don't prioritize your life, someone else will.
-
-> Our highest priority is to protect our ability to prioritize.
-
-> The ability to choose cannot be taken away or ever given away - it can only be forgotten.
-
 ## Summary
 
 The author broke down the book in three sections:
@@ -57,6 +49,16 @@ The author broke down the book in three sections:
 4. **Flow**: As you build the system of small steps, look for the things that get you in a `state of flow`. Look for consistent routines that you can put in place for yourself.
 5. **Focus**: Have a regular state of focused attention/energy, and to always be winning, asking the question `What's important Now?`.
 6. **Be**: Live from the sense of essentialism, making it part of your core, and keep increasing that essentialist part of you.
+
+<img width="1175" alt="image" src="https://github.com/learn-with-me/books-self-help/assets/5758132/75fe751a-a803-43a1-8111-fcc8eacc96ad">
+
+## Quotes
+
+> If you don't prioritize your life, someone else will.
+
+> Our highest priority is to protect our ability to prioritize.
+
+> The ability to choose cannot be taken away or ever given away - it can only be forgotten.
 
 ## References
 
