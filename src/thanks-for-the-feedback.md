@@ -64,6 +64,8 @@ Example of what the boundary sounds like:
 
 In the process you have opportunity to show `appreciation` for the feedback giver, and `being firm` in the boundary you set. - "I appreciate your concern, and I am choosing to do it this way..."
 
+<img width="1082" alt="image" src="https://github.com/learn-with-me/books-self-help/assets/5758132/655666f0-6a85-4c97-9371-3ac651d81598">
+
 ## References
 
 - Author: Douglas Stone, Sheila Heen
