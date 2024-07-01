@@ -2,6 +2,7 @@ site_name: Summary of Self-Help books
 site_url: https://learn-with-me.github.io/books-self-help/
 repo_url: https://github.com/learn-with-me/books-self-help
 docs_dir: 'src'
+draft_docs: 'book-name/'               # A "drafts" directory anywhere.
 
 theme:
   name: material
@@ -37,7 +38,7 @@ theme:
     - tags
 extra:
   homepage: https://learn-with-me.github.io/books-self-help/
-  copyright: Copyright &copy; 2022 - 2023 goel4ever
+  copyright: Copyright &copy; 2023 - 2024 goel4ever
   analytics:
     provider: google
     property: G-CDR2H1HJZ8
