@@ -60,6 +60,14 @@ The author broke down the book in three sections:
 
 > The ability to choose cannot be taken away or ever given away - it can only be forgotten.
 
+## Example
+
+If a friend asks you to go out for a few drinks and you say `yes`, you're actually saying `no` to a dozen other things you could spend your time on.
+
+We all have situations in life that we regret saying yes to, when we really wanted to say no. Saying no might sting in the moment, but its better than saying yes and regretting afterwards.
+
+An essentialist will allow themselves to think and identify what's critical and what's trivial to their goals. They will eliminate and avoid the trivial things, so they can have more time and energy for things that are important to them.
+
 ## References
 
 - Author: Greg McKeown
