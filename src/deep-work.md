@@ -26,6 +26,8 @@ Focuses on daily cycles, giving you the opportunity to turn deep work sessions i
 
 Encourages you to fit in deep work whenever and wherever you can. Like a journalist in the field, you are always prepared to take advantage of the opportunities as they arise. This approach is not for the deep work novice.
 
+<img width="1170" alt="image" src="https://github.com/learn-with-me/books-self-help/assets/5758132/7d5d7ff5-40aa-4101-8e97-27f65b73774b">
+
 ## References
 
 - Author: Cal Newport
