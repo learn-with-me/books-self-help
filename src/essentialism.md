@@ -29,6 +29,35 @@ Overall, essentialism is about simplifying your life, making deliberate choices,
 
 > The ability to choose cannot be taken away or ever given away - it can only be forgotten.
 
+## Summary
+
+The author broke down the book in three sections:
+
+### Explore
+
+1. **Escape**: You need to `escape` to a place, where you can concentrate, design, read, to do deep thinking and deep work.
+2. **Look**: Hone your observational skills and be a `journalist` of your own life
+3. **Play**: Broaden your range of options by expanding your awareness. It's a clear antidote to stress.
+4. **Sleep**: Protect the asset, your brain, otherwise quality of your effort and attention will steadily declines.
+5. **Select**: Can't say yes to everything. Determine a metrics that helps you decide what gets your `yes`. Either bring `Hell yeah!` or `No`, there is no in-between.
+
+### Eliminate
+
+1. **Clarify**: the target you are shooting for. Without having your essential intent defined, it makes it a lot harder to decide what to say yes to and what to say no to.
+2. **Dare**: to say no, even if it makes you unpopular. This can often mean trading `popularity` for `respect`. You need to say no firmly, resolutely and gracefully. It's worth getting good at saying no.
+3. **Uncommit**: if you recognize the direction you are in is not getting you the desired results.
+4. **Edit**: along the way to add quality to your life and to your work. This is where you from from being a `journalist` to being an `editor`, looking for opportunities to cut out anything that isn't essential so there's more space and attention give to most important.
+5. **Limit**: your options upfront, to create `boundaries` in your life/work to give you a sense of `freedom`.
+
+### Execute
+
+1. **Buffer**: Create a buffer for `breathing room` between current focus and future commitment. Without this buffer, the quality of the effort will decline.
+2. **Subtract**: Remove the `obstacles`. Take a closer look at the steps underlying creative process and remove the obstacles that make those steps difficult.
+3. **Progress**: Instead of focusing on huge leaps of progress, build yourself a `system of small wins`. Steps that you can take each day that allow you to `start small` and `build momentum` over time.
+4. **Flow**: As you build the system of small steps, look for the things that get you in a `state of flow`. Look for consistent routines that you can put in place for yourself.
+5. **Focus**: Have a regular state of focused attention/energy, and to always be winning, asking the question `What's important Now?`.
+6. **Be**: Live from the sense of essentialism, making it part of your core, and keep increasing that essentialist part of you.
+
 ## References
 
 - Author: Greg McKeown
